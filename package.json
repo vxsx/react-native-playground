@@ -1,0 +1,19 @@
+{
+  "name": "DivioGithubCalculator",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "lint": "$(npm bin)/eslint ."
+  },
+  "dependencies": {
+    "apsl-react-native-button": "^2.2.0",
+    "react-native": "^0.14.2",
+    "react-redux": "^3.1.0",
+    "redux": "^3.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.1",
+    "eslint-plugin-react": "^3.10.0"
+  }
+}
