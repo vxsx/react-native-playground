@@ -9,7 +9,7 @@ import React, {
     Easing
 } from 'react-native';
 import Button from 'apsl-react-native-button';
-import styles from './styles/root';
+import styles from './app/styles/root';
 // import { Provider } from 'react-redux/native';
 
 class DivioGithubCalculator extends React.Component {
